@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: FahrenCelciusConverter.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.295 sec <<< FAILURE!
+User should be able to convert fahrenheit to celcius(Convert fahrenheit to celcius)  Time elapsed: 0.077 sec  <<< ERROR!
+java.lang.NullPointerException
+	at FahrenCelciusConverter.ConverterTest.fahrenheit_is_converted_to_celcius(ConverterTest.java:29)
+	at ?.fahrenheit is converted to 10 celcius(FahrenCelciusConverter/FahrenToCelcius.feature:5)
+
