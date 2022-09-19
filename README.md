@@ -41,8 +41,17 @@ Created using BDD principles
 ## 3. Give your thoughts on BDD
 
 * What was positive and good about using BDD?
+By having tests already created, I can easily identify what part of the code needs refactoring in case of failure.
+
 * What was annoying or difficult?
+Takes longer to setup.
+
 * What surprised you?
+That it was easy to setup
+
 * Did BDD help you understand the problem domain more
+Yes it made me understand the domain better since I had to think of the use cases.
+
 * Did BDD help you write some tests you wouldn’t otherwise have thought of? 
+Yes
 
